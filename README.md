@@ -1,3 +1,3 @@
 Personal Site
 
-Based on the Indigo template by Kopplin
+Based on the Indigo template by Sergio Kopplin
