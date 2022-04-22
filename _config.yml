@@ -16,7 +16,7 @@ resume: true
 resume-external: false
 resume-url: assets/Aditya_Garg_Resume.pdf
 
-url: https://adiplier.com/
+url: https://adiplier.com
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
