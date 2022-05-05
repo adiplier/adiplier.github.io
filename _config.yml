@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/Aditya+Garg's+Resume.pdf
+resume-url: assets/Aditya%20Garg's%20Resume.pdf
 
 url: https://adiplier.com
 # your url: http://USERNAME.github.io
