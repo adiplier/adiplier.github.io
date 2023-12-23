@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <h1>Hi, Aditya here</h1>
-<p>I'm a Computer Science undergrad from Mumbai, India</p>
+<p>I'm a Software Developer</p>
 <p>I like working on little scripts and such, my interests include video games, fitness and photography</p>
 
 <h2>Skills</h2>
