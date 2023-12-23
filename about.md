@@ -20,5 +20,5 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/adiplier/">Find My Projects on GitHub</a></li>
+	<li><a href="https://github.com/adiplier/links">Find My Projects on GitHub</a></li>
 </ul>
